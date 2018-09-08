@@ -1,6 +1,8 @@
 package list;
 
 
+import adt.IList;
+
 /**
  * 单向循环链表：只需添加一个尾指针指向最后链表的最后一个节点，而链表的最后一个节点指向头节点
  * @author lenovo

@@ -1,4 +1,7 @@
 package list;
+
+import adt.IList;
+
 /**
  * 单链表
  * 平均时间复杂度：查找O(n)、插入O(1)

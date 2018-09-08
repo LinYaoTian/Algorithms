@@ -1,5 +1,7 @@
 package stack;
 
+import adt.IStack;
+
 public class SequenceStack implements IStack {
 	
 	 private Object[] stack;//对象数组

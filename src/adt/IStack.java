@@ -1,4 +1,4 @@
-package stack;
+package adt;
 
 public interface IStack {
 	//入栈

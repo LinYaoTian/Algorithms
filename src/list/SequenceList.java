@@ -1,4 +1,7 @@
 package list;
+
+import adt.IList;
+
 /**
  * 顺序存储的顺序表
  * 平均时间复杂度：查找 O(1)、插入删除 O(n)

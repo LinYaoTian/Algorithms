@@ -1,4 +1,4 @@
-package list;
+package adt;
 //线性表接口
 public interface IList {
 	//在index上插入一个元素
